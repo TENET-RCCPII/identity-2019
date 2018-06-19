@@ -4,9 +4,7 @@
 
 Below you will find all the information that we thought might help you plan your trip to Johannesburg for CarpentryConnect Johannesburg 2018. The document will be developed in more detail over the next few weeks. Please check back later or send us an email if you have any specific questions - carpentryconnect-jhb-2018@googlegroups.com.
 
-<img src="taskforce_misc/a-z-images/allies.jpeg" width=800>
 
-##### *Screenshot of the official website: carpentrycon.org. Original background picture by Hugo Neves at EMBL Annual Software Carpentry Course 2017*
 
 ### A: Arrival, Access, Accommodation, Allies
 
