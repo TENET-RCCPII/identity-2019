@@ -11,6 +11,10 @@
   font-weight: normal;
   font-style: normal;
 }
+.img-fluid {
+  max-width: 20%;
+  height: auto;
+}
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
