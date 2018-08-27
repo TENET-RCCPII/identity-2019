@@ -126,10 +126,17 @@ The etherpads for the respective workshops at CarpentryConnect is availble at:
 Networking events are planned as follows:
 
 * Tuesday, 4 September 2018 (18:00 - 20:00)
-** Please register if you have not yet indicated your interest to join us for this event
+** Please register if you have not yet indicated your interest to join us for this event (email carpentryconnect-jhb-2018@googlegroups.com)
 ** The event will kick off with a short presentation about RCCPII and SADiLaR
 ** Dinner (a buffet) and softdrinks are included 
 
+
+* Wednesday, 5 September 2018 (18:00 - 20:00)
+** Please register if you have not yet indicated your interest to join us for this event (email carpentryconnect-jhb-2018@googlegroups.com)
+** The event will kick off with a short presentation
+** A cocktail dinner and softdrinks are included 
+
+Please check your Registration Confirmation letter to confirm if you have registered for the networking events on Tuesday and/or Wednesday.
 
 
 ### H: Helpers and Helpdesk
@@ -210,7 +217,25 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk at your workshop room (don't forget to bring your registration confirmation letter). 
 
 
-### P: Photography
+### P: Preparation for the Workshops, Preparation for Train-the-Trainer Workshop, Photography
+
+#### Preparation for the Workshops
+
+Please follow the link to your workshop website where you will find more information about the workshop schedule, contents, and preparations.
+
+All workshop websites have a list of software that should be installed prior to the start of the workshop (excluding the Train-the-Trainer event). The software names and installation instructions can be found at the bottom of the workshop website under "SETUP". If you have any questions about this, please do not hesitate to contact us at carpentryconnect-jhb-2018@googlegroups.com.
+
+* [Software Carpentry](https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-SWC/)
+* [Data Carpentry for Social Sciences](https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/)
+* [Library Carpentry/Digital Humanities](https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC/)
+
+Help with software installations will also be available on site at the workshops on Sunday evening from 18:00 - 19:00. The venue will be confirmed. Support will also be available from 8:00 - 9:00 on Monday 3 September at the workshop venues.
+
+
+#### Preparation for Train-the-Trainer Workshop
+
+Information about how to prepare for the instructor training event is available at the [CarpentryConnect Train-the-Trainer website](https://tenet-rccpii.github.io/2018-09-06-ttt-CarpentryConnect-JHB/). 
+
 
 #### Photography
 
