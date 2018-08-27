@@ -10,8 +10,6 @@ Below you will find all the information that we thought might help you plan your
 
 #### Arrival
 
-#### Arrival
-
 For those of you arriving at OR Tambo airport, please feel free to make use of the free shuttle that commutes between the hotel/venue and the airport. The <a href="https://bit.ly/2w70GdO">shuttle schedule can be viewed online</a>. 
 
 Many participants, instructors and helpers will already arrive on Sunday afternoon or evening and you may bump into each other in the lounge at dinner time.
@@ -42,7 +40,7 @@ An ally is someone who uses her/his/their societal privileges for supporting mem
 Badges will be handed out with registration on Monday morning from 8:30 am in the room where your workshop will take place. Please wear your badge at all times to assist with security and also to help colleagues remember names.
 
 
-### C: Carpentries, CarpentryConnect and Cheatsheet, Code of Conduct, Coffee, Catering
+### C: Carpentries, CarpentryConnect and Cheatsheet, Code of Conduct, Coffee, Catering, and Community
 
 #### The Carpentries
 <br><br>
@@ -61,14 +59,14 @@ The Carpentries (https://carpentries.org/), brings Software and Data Carpentry t
 We have created this Cheatsheet to help answer all questions you may have about the event, logistics, contacts, etc.
 
 
-##### Code of Conduct
+#### Code of Conduct
 
 As event participant, you are requested to familiarize yourself with The Carpentries' [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 *Code of Conduct in Short*: The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Harassment in any form or behavior intended to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. If you believe someone is violating the Code of Conduct we ask that you report it to the CarpentryCon TaskForce members or the Code of Conduct committee members (Karin Lagesen, Kari Jordan and Malvika Sharan) at the conference in person, by email or on Slack, who will take the appropriate action to address the situation. You can also reach out to the Carpentries Policy Committee by emailing policy@carpentries.org.
 
 
-##### Coffee and Catering
+#### Coffee and Catering
 
 Refreshment breaks will be held daily at the following times:
 
@@ -80,6 +78,10 @@ Refreshment breaks will be held daily at the following times:
 * 18:00 - late  (Dinner at the hotel for participants reserved in the hotel under Dinner, Bed & Breakfast arrangement - please refer to your conference confirmation letter to confirm whether you are eligible)
 
 Refreshment breaks will be held jointly for all participants of the event to provide opportunity to network accross the workshops.
+
+#### Community
+
+During the workshops you'll have loads of opportunities to meet instructors and helpers who've been part of the Carpentry Community for various amounts of times. Please ensure you take the opportunity to meet them, ask about their experiences, learn about the initiatives, and see how you and your institutions can benefit from becoming part of this solutions-driven community of practice around computational and digital skills and teaching.
 
 
 ### D: Diversity, Data Carpentry
@@ -129,9 +131,21 @@ Networking events are planned as follows:
 ** Dinner (a buffet) and softdrinks are included 
 
 
-#### H: Helpers and Helpdesk
 
-We will have a helpdesk at the venue where you can get all the information that you may need during the conference. We will also have a designated Welcome Team, who will help you during the day to get orientated at the conference venue. For any request for special needs and help, get in touch with the organizers.
+### H: Helpers and Helpdesk
+
+
+#### Helpers
+
+Helpers are volunteers from the community who join our workshops and circulate between participants to ensure everyone follows the hands-on sessions and are assisted when technical difficulty arrise. Helpers are critical allies of the instructors and ensure challenges experienced in the classroom are relayed back to the instructor in a timeous manner. A Carpentry workshop is heavily dependent on our helpers, just as much as our instructors.
+
+
+#### Helpdesk
+
+We will not have an official helpdesk at the event, but you can get assistance in the workshops from instructors and helpers. Every workshop has at least 4 - 6 or more instructors and helpers who will be introduced at the beginning of the event. Please ensure you know who they are and feel free to ask them for help with anything you may need during the event.
+
+Alternatively, please contact the conference organisers at carpentryconnect-jhb-2018@googlegroups.com.
+
 
 
 ### I: Icebreaker, Inclusion
@@ -153,6 +167,8 @@ We want to create an inclusive and welcoming environment at the conference. We a
 There are several ways to become a member of [The Carpentries community](https://carpentries.org/community/) and support its work. At CarpentryConnect, there will be opportunities to meet volunteers from the community to learn more about it. See [here](https://carpentries.org/join/) for more detail.
 
 ### K: Keynote Speakers, Knowledge sharing
+
+#### Keynote Speakers
 
 This event is slightly different from your typical conference as it will consist of full-day, hands-on workshops rather than talks and presentations.
 
@@ -210,7 +226,7 @@ Questions can be addressed to [carpentryconnect-jhb-2018@googlegroups.com](carpe
 
 
 
-### R: Registration, Restaurant suggestions
+### R: Registration
 
 #### Registration
 
@@ -220,7 +236,7 @@ Train-the-Trainer registration will take place on Thursday morning from 8:30 - 9
 Please remember to bring along your registration confirmation letter that was emailed to you.
 
 
-### S: Sticky Notes, Special requirements, Surveys, Sponsors, Sightseeing, Software Carpentry
+### S: Sticky Notes, Special requirements, Surveys, Sponsors, Software Carpentry
 
 
 #### Sticky Notes
@@ -250,80 +266,66 @@ The Software Carpentry Foundation and its sibling project, Data Carpentry, have 
 
 Like *Data Carpentry*, we will have a desk at the conference where you can learn more about this project.
 
-### T: Taskforce, Twitter, T-shirts, Technical Support, Travel/Transportation
+
+### T: Taskforce, Twitter, Technical Support, Travel/Transportation
 
 #### TaskForce
 
-
+The [African Carpentries Task Force](https://docs.carpentries.org/topic_folders/regional_communities/african_task_force.html) was established late in 2017 to help grow the Carpentries in Africa through mentorship and support for local instructors.
 
 #### Twitter
 
-
-
-#### T-shirts
+The Carpentries can be followed on Twitter at @TheCarpentries](https://twitter.com/thecarpentries) whereas the individual lesson organisations, Software Carpentry and Data Carpentry, as well as Library Carpentry, can be followed respectively at [https://twitter.com/swcarpentry](https://twitter.com/swcarpentry), [https://twitter.com/datacarpentry](https://twitter.com/datacarpentry), and [https://twitter.com/LibCarpentry](https://twitter.com/LibCarpentry).
 
 
 #### Technical Support
 
+We'll do our best to provide technical support during the workshop in collaboration with our helpers, and the conference venue staff. Please approach a helper if you have any technical challenges. Helpers will be introduced at the beginning of the workshops.
 
 
 #### Travel/Transportation
 
+Travel should be arranged by you or your institution. Conference organisers are not liable for making any transport arrangements. 
+
+It is advised to fly to OR Tambo rather than Lanseria Airport as the venue is only a few minutes away from OR Tambo and a [free shuttle](https://bit.ly/2w70GdO) run between OR Tambo and the venue/hotel daily.
+
+The venue is [Birchwood Hotel and Conference Centre](https://www.birchwoodhotel.co.za/).
 
 
-
-### V: Volunteers, Visa, Veg()an+
-
-#### Volunteers
-
-A group of volunteers will always be present at the venue to help you coordinate with the organizer, session chairs, venue manager, and find your way to the different rooms at the venue.
-
-
-#### Visa
-
-
-#### Veg()an+
-
-We want to be able to provide you catering keeping your dietary restrictions into account (e.g. Veg(itari)ans, Gluten-free, Nut-free etc). Make sure that you provide your preference while registering. If you forgot about it, contact the organizers with your request.
-
-### W: Weather, Workshops, Wireless, Welcome Team, Wish board, Watercoolers
+### W: Weather, Workshops, Wireless
 
 #### Weather
 
-
+It seems like the [weather in Johannesburg](https://www.accuweather.com/en/za/johannesburg/305448/daily-weather-forecast/305448) will be lovely during CarpentryConnect. Please remember that we'll be indoors most of the day and that airconditioned climates may be much cooler than expected. Remember a jersey or jacket for the unpredictable.
 
 #### Workshops
 
+More information about the various workshops that will run during the week is available at the respective websites:
+
+* [Software Carpentry](https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-SWC/) - 3 - 5 September
+* [Data Carpentry for Social Sciences](https://tenet-rccpii.github.io/2018-09-03-CarpentryConnect-JHB-Social-Sciences/) - 3 - 5 September
+* [Library Carpentry/Digital Humanities](https://dh-southernafrica.github.io/2018-09-03-CarpentryConnect-JHB-LC/) - 3 - 5 September
+* [Train-the-Trainer](https://tenet-rccpii.github.io/2018-09-06-ttt-CarpentryConnect-JHB/) (Carpentries instructor training) - 6 & 7 September
 
 
 #### Wireless
 
+Wireless internet will be available at the event venue.
 
-#### Welcome Team
-
-
-#### Wish board
-
-
-
-#### Watercoolers
-
-.
 
 ### X: _X out inequality_
 
 
 *We can't emphasize this enough!*
 
-The globally diverse community of The Carpentries provides equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryCon and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+The globally diverse community of The Carpentries provides equal opportunities to everyone irrespective of their background (both technical and non-technical). We will maintain the same ethics at CarpentryConnect Johannesburg and would request all our participants to familiarize themselves with our [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ***Discrimination in any form, including behavior or remarks against any nationality, ethnicity, sexuality, religious and cultural belief, will not be tolerated!*** (also see *Allies, Code of Conduct, Diversity, Inclusion*)
 
 ### Y: You!
 
-This event is for **you**. The success of this conference will be measured by what you gain at the conference and afterward in terms of skills, knowledge, and networking.
+This event is for **you**. The success of this event will be measured by what you gain here and afterward in terms of skills, knowledge, and networking.
 
-Be mindful that the organizers are also volunteers who are organizing this for the community by working beyond their work. Therefore, we invite you to step in if you see that something at the conference is not working and you have the idea and capacity to *fix* it for others.
 
 
 **We are looking forward to welcoming you to CapentryConnect Johannesburg 2018!**
