@@ -281,8 +281,8 @@ To be added shortly
 
 CarpentryConnect Johannesburg 2018 is co-funded by the:
 
-* Rural Campuses Connection Project II (RCCPII), a DHET funded project administered by Universities South Africa (USAF) and implemented by The Tertiary Education and Research Network (TENET)  AND
-* South African Centre for Digital Language Resources (SADiLaR), a DST funded project that forms part of the South African Research Infrastructure Roadmap (SARIR).
+* [Rural Campuses Connection Project II](https://tenet-rccpii.github.io/rccpii-2018/) (RCCPII), a DHET funded project administered by Universities South Africa (USAF) and implemented by The Tertiary Education and Research Network (TENET)  AND
+* [South African Centre for Digital Language Resources](https://www.sadilar.org/) (SADiLaR), a DST funded project that forms part of the South African Research Infrastructure Roadmap (SARIR).
 
 
 #### Software Carpentry
