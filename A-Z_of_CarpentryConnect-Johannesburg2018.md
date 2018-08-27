@@ -317,7 +317,7 @@ It is advised to fly to OR Tambo rather than Lanseria Airport as the venue is on
 The venue is [Birchwood Hotel and Conference Centre](https://www.birchwoodhotel.co.za/).
 
 
-### W: Weather, Workshops, Wireless
+### W: Weather, Workshops, Wireless, Workshop Rooms
 
 #### Weather
 
@@ -336,6 +336,18 @@ More information about the various workshops that will run during the week is av
 #### Wireless
 
 Wireless internet will be available at the event venue.
+
+
+#### Workshop Rooms
+
+* Software Carpentry: Barcelona
+* Data Carpentry for Social Sciences: Lanseria
+* Library Carpentry/Digital Humanities: Heathrow
+
+* Train-the-Trainer: Heathrow
+** Break away rooms:
+*** Prague
+*** Charles de Gaulle
 
 
 ### X: _X out inequality_
