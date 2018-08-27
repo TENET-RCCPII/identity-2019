@@ -217,7 +217,7 @@ Are you new to The Carpentries? Do you want to learn more about the organization
 Name tags are a great way for participants to strike up conversations with other participants or volunteers. You can collect your name tag at the registration desk at your workshop room (don't forget to bring your registration confirmation letter). 
 
 
-### P: Preparation for the Workshops, Preparation for Train-the-Trainer Workshop, Photography
+### P: Preparation for the Workshops, Preparation for Train-the-Trainer Workshop, Photography, Parking
 
 #### Preparation for the Workshops
 
@@ -241,6 +241,10 @@ Information about how to prepare for the instructor training event is available 
 
 We would like to take photos during the course of CarpentryConnect to use in future reports, blog posts, and on Social Media. Please let Anelda van der Walt or Juan Steyn know if you would prefer not to be included in photos. 
 
+
+#### Parking
+
+Free parking is available at the venue and hotel at Birchwood Hotel & Conference Centre.
 
 
 ### Q: Questions
