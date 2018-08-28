@@ -10,7 +10,7 @@ Below you will find all the information that we thought might help you plan your
 
 #### Arrival
 
-For those of you arriving at OR Tambo airport, please feel free to make use of the free shuttle that commutes between the hotel/venue and the airport. The <a href="https://bit.ly/2w70GdO">shuttle schedule can be viewed online</a>. 
+For those of you arriving at OR Tambo airport, please feel free to make use of the free shuttle that commutes between the hotel/venue and the airport. The <a href="https://bit.ly/2w70GdO">shuttle schedule can be viewed online</a>. *{See "Shuttle" below for info about where to wait}*
 
 Many participants, instructors and helpers will already arrive on Sunday afternoon or evening and you may bump into each other in the lounge at dinner time.
 
