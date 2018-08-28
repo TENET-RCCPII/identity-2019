@@ -265,7 +265,7 @@ Train-the-Trainer registration will take place on Thursday morning from 8:30 - 9
 Please remember to bring along your registration confirmation letter that was emailed to you.
 
 
-### S: Sticky Notes, Special requirements, Surveys, Sponsors, Software Carpentry
+### S: Sticky Notes, Special requirements, Surveys, Sponsors, Software Carpentry, Shuttle
 
 
 #### Sticky Notes
@@ -294,6 +294,18 @@ CarpentryConnect Johannesburg 2018 is co-funded by the:
 The Software Carpentry Foundation and its sibling project, Data Carpentry, have merged to become The Carpentries. Since 1998, Software Carpentry has been teaching researchers the computing skills they need to get more done in less time and with less pain. Our volunteer instructors have run hundreds of events for more than 34,000 researchers since 2012. All of our lesson materials are freely reusable under the Creative Commons - Attribution license.
 
 Like *Data Carpentry*, we will have a desk at the conference where you can learn more about this project.
+
+#### Shuttle
+
+The [free airport shuttle](https://www.birchwoodhotel.co.za/directions/#ortambo) that runs between OR Tambo airport and the Birchwood Hotel and Conference Centre runs at the times specified in the [schedule that can be downloaded here](https://bit.ly/2w70GdO). All workshops will take place at Birchwood Hotel and Conference Centre which is also where accommodation has been booked for those funded through RCCPII/SADiLaR. No extra transport should be required once you are at the venue/hotel.
+
+##### Pick up points at the airport
+
+* International Arrivals: Exit the doors from International Arrivals.  From the greeting area, look for the **signs to car hire and the bus terminal**. Continue straight, towards the street, exit the terminal building. Cross the road, **following the signs to the bus terminal**. The Birchwood OR Tambo shuttle **departs at 10 past the hour from the bus terminal**. There is a Birchwood guest lounge where you enjoy free WiFi and coffee while you wait at our Airport Guest Lounge.
+
+* Domestic Arrivals: **Exit the doors from the OR Tambo Airport Domestic Arrivals**.  From the greeting area, **head right towards International Arrivals**. Passing International Arrivals (on your right), look for the **signs to car hire and the bus terminal**. Bearing left, towards the street, exit the terminal building. Cross the road, following the signs to the bus terminal.
+
+The Birchwood OR Tambo Airport shuttle **departs at 10 past the hour from the bus terminal**. There is a Birchwood guest lounge where you enjoy free WiFi and coffee while you wait at our Airport Guest Lounge.
 
 
 ### T: Taskforce, Twitter, Technical Support, Travel/Transportation
