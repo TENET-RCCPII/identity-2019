@@ -186,11 +186,17 @@ We don't have keynote speakers, but we do have over 20 instructors and helpers. 
 We are privileged to have a very diverse group of participants, instructors and helpers at CarpentryConnect. Please take the opportunity to learn from each other. If you need a breakout room on Thursday morning (not participating in the instructor training) or on Wednesday afternoon, to discuss specific topics in small groups, please contact Anelda van der Walt as soon as possible to arrange.
 
 
-### L: Library Carpentry
+### L: Library Carpentry, Laptops
 
 #### Library Carpentry
 
 Library Carpentry, is made by librarians, for librarians to help you automate repetitive, boring, error-prone tasks, create, maintain and analyse sustainable and reusable data, work effectively with IT and systems colleagues, better understand the use of software in research and much more. Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning. See [here](http://librarycarpentry.github.io/our-sponsors/) for more detail. 
+
+#### Laptops
+
+Please remember to bring along your laptop and charger for the laptop as well as adaptors should you have non-South African plugs. The workshops are hands-on and everyone needs to work on their own computer although we will have plenty of opportunity for peer-instruction and collaboration. 
+
+If you are unable to bring along a laptop (no restrictions on the operating system - we accept Windows, Mac, and Linux), please contact the organisers urgently. A tablet will not be sufficient to work along.
 
 
 ### M: Medical, Mentoring
