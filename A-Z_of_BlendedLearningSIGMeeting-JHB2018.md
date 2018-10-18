@@ -65,7 +65,7 @@ In case of emergencies please contact:
 
 
 
-### I: Icebreaker
+### I: Inclusion
 
 #### Inclusion
 
