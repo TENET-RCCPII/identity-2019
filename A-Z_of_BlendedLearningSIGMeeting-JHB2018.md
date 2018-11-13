@@ -10,16 +10,16 @@ Below you will find all the information that we thought might help you plan your
 
 #### Arrival
 
-For those of you arriving at OR Tambo airport, please feel free to make use of the free shuttle that commutes between the hotel/venue and the airport. The <a href="https://bit.ly/2w70GdO">shuttle schedule can be viewed online</a>. *{See "Shuttle" below for info about where to wait}*
+For those of you arriving at OR Tambo airport, please feel free to make use of the free shuttle that commutes between the hotel/venue and the airport. The <a href="http://www.emperorspalace.com/themes/docs/hotels/Emperors-Palace-Airport-Shuttle-Service.pdf">shuttle schedule can be viewed online</a>. *{See "Shuttle" below for info about where to wait}*
 
 For those arriving on Monday morning, please take note that registration start start at 9:00 am but the formal program only kicks off at 10:00 to accommodate people flying in early on Monday morning and those traveling through traffic.
 
 
 #### Accommodation
 
-If your accommodation is funded by RCCPII it will be booked on a dinner, bed, and breakfast basis at the <a href="https://www.birchwoodhotel.co.za/">Birchwood Hotel</a>, Viewpoint Road Bartlett,Boksburg.
+If your accommodation is funded by RCCPII it will be booked on a dinner, bed, and breakfast basis at the <a href="http://www.emperorspalace.com/hotels/peermont-metcourt-hotel">Peermont Metcourt Hotel</a>, Viewpoint Road Bartlett,Boksburg.
 
-If you are arranging your own accommodation, please feel free to make use of the special rates negotiated for the event at the <a href="https://www.birchwoodhotel.co.za/">Birchwood Hotel</a>, Viewpoint Road Bartlett,Boksburg. You can contact the hotel directly and indicate that you are part of the Blended Learning SIG group to access these rates.
+If you are arranging your own accommodation, please feel free to make use of the special rates negotiated for the event at the <a href="https://www.birchwoodhotel.co.za/">Birchwood Hotel</a>, 64 Jones Rd, O.R. Tambo, Kempton Park, 1620. You can contact the hotel directly and indicate that you are part of the Blended Learning SIG group to access these rates.
 
 
 #### Allies
@@ -62,6 +62,7 @@ During the meeting you'll have loads of opportunities to meet colleagues from va
 In case of emergencies please contact:
 
 * Anelda van der Walt: +27 (0)72 838-6969
+
 
 
 
@@ -114,7 +115,7 @@ We would like to take photos during the course of the meeting to use in future r
 
 #### Parking
 
-Free parking is available at the venue and hotel at Birchwood Hotel & Conference Centre.
+Free parking is available at the venue and hotel.
 
 
 ### Q: Questions
@@ -142,22 +143,20 @@ We want to assist you in all possible ways to make your participation at the Ble
 
 #### Sponsors
 
-CarpentryConnect Johannesburg 2018 is funded by the:
+The Blended Learning SIG Meeting Johannesburg 2018 is funded by the:
 
 * [Rural Campuses Connection Project II](https://tenet-rccpii.github.io/rccpii-2018/) (RCCPII), a DHET funded project administered by Universities South Africa (USAF) and implemented by The Tertiary Education and Research Network (TENET)
 
 
 #### Shuttle
 
-The [free airport shuttle](https://www.birchwoodhotel.co.za/directions/#ortambo) that runs between OR Tambo airport and the Birchwood Hotel and Conference Centre runs at the times specified in the [schedule that can be downloaded here](https://bit.ly/2w70GdO). All workshops will take place at Birchwood Hotel and Conference Centre which is also where accommodation has been booked for those funded through RCCPII. No extra transport should be required once you are at the venue/hotel.
+The [free airport shuttle](http://www.emperorspalace.com/themes/docs/hotels/Emperors-Palace-Airport-Shuttle-Service.pdf) that runs between OR Tambo airport and venue/hotel runs every 20 minutes from 6:00 - 23:00. More info is available [on the website](http://www.emperorspalace.com/themes/docs/hotels/Emperors-Palace-Airport-Shuttle-Service.pdf). All sessions will take place at the Emperor's Palace Convention Centre in the Julia Room. This is within easy walking distance from the Peermont Metcourt Hotel where accommodation is booked. No additional transport should be necessary.
 
 ##### Pick up points at the airport
 
-* International Arrivals: Exit the doors from International Arrivals.  From the greeting area, look for the **signs to car hire and the bus terminal**. Continue straight, towards the street, exit the terminal building. Cross the road, **following the signs to the bus terminal**. The Birchwood OR Tambo shuttle **departs at 10 past the hour from the bus terminal**. There is a Birchwood guest lounge where you enjoy free WiFi and coffee while you wait at our Airport Guest Lounge.
+* International Arrivals: Exit the doors from International Arrivals.  From the greeting area, look for the **signs to car hire and the bus terminal**. Continue straight, towards the street, exit the terminal building. Cross the road, **following the signs to the bus terminal**. The complimentary Emperor's Palace shuttle **departs every 20 minutes from the bus terminal**. The shuttle vans are black with the Emperors Palace logo on the sides and the drivers wear a black Emperors Palace uniform.
 
-* Domestic Arrivals: **Exit the doors from the OR Tambo Airport Domestic Arrivals**.  From the greeting area, **head right towards International Arrivals**. Passing International Arrivals (on your right), look for the **signs to car hire and the bus terminal**. Bearing left, towards the street, exit the terminal building. Cross the road, following the signs to the bus terminal.
-
-The Birchwood OR Tambo Airport shuttle **departs at 10 past the hour from the bus terminal**. There is a Birchwood guest lounge where you enjoy free WiFi and coffee while you wait at our Airport Guest Lounge.
+* Domestic Arrivals: **Exit the doors from the OR Tambo Airport Domestic Arrivals**.  From the greeting area, **head right towards International Arrivals**. Passing International Arrivals (on your right), look for the **signs to car hire and the bus terminal**. Bearing left, towards the street, exit the terminal building. Cross the road, following the signs to the bus terminal.The complimentary Emperor's Palace shuttle **departs every 20 minutes from the bus terminal**. The shuttle vans are black with the Emperors Palace logo on the sides and the drivers wear a black Emperors Palace uniform.
 
 
 ### T: Twitter, Technical Support, Travel/Transportation
@@ -176,9 +175,9 @@ We'll do our best to provide technical support during the workshop in collaborat
 
 Travel should be arranged by you or your institution. Meeting organisers are not liable for making any transport arrangements. 
 
-It is advised to fly to OR Tambo rather than Lanseria Airport as the venue is only a few minutes away from OR Tambo and a [free shuttle](https://bit.ly/2w70GdO) run between OR Tambo and the venue/hotel daily.
+It is advised to fly to OR Tambo rather than Lanseria Airport as the venue is only a few minutes away from OR Tambo and a [free shuttle](http://www.emperorspalace.com/themes/docs/hotels/Emperors-Palace-Airport-Shuttle-Service.pdf) run between OR Tambo and the venue/hotel daily.
 
-The venue is [Birchwood Hotel and Conference Centre](https://www.birchwoodhotel.co.za/).
+The venue is [Emperor's Palace Convention Centre - South Wing - Julia Room](http://www.emperorspalace.com/conferences-and-events/the-convention-centre/south-wing).
 
 
 ### W: Weather, Wireless, Workshop Rooms
@@ -195,7 +194,7 @@ Wireless internet will be available at the event venue.
 
 #### Workshop Rooms
 
-TBC
+The event will take place in the [South Wing in Julia Room](http://www.emperorspalace.com/conferences-and-events/the-convention-centre/south-wing).
 
 
 ### Y: You!
