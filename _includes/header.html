@@ -11,21 +11,21 @@
         <ul class="nav navbar-nav navbar-right">
           <li class="hidden"><a href="#page-top"></a></li>
 
-          <li><a class="page-scroll" href="#about">About</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#about">About</a></li>
 
-          <li><a class="page-scroll" href="#format">Activities</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#format">Activities</a></li>
 
-          <li><a class="page-scroll" href="#presenters">Presenters</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#presenters">Presenters</a></li>
 
-          <li><a class="page-scroll" href="#sponsors">Sponsors</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#sponsors">Sponsors</a></li>
 
-          <li><a class="page-scroll" href="#prog">Programme</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#prog">Programme</a></li>
 
-          <li><a class="page-scroll" href="#registration">Register</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#registration">Register</a></li>
 
-          <li><a class="page-scroll" href="#accom">Accommodation</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#accom">Accommodation</a></li>
 
-          <li><a class="page-scroll" href="#contact">Contact</a></li>
+          <li><a class="page-scroll" href="{% if page.layout != 'default' %}./{% endif %}#contact">Contact</a></li>
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
